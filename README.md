@@ -41,5 +41,5 @@ Logs de tempo:
 Mean thread creation time: 0.003383s
 Mean process creation time: 0.006480s
 ```
-## 4. Ao testar o programa, usar o comando ulimit no shell para reduzir o número máximo de processos permitidos e testar o programa novamente.
+### 4. Ao testar o programa, usar o comando ulimit no shell para reduzir o número máximo de processos permitidos e testar o programa novamente.
    Aproveitando, como será que o shell trata o comando ulimit?
